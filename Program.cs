@@ -1,10 +1,5 @@
 ﻿using System;
-using System.Diagnostics;
 using System.Collections.Generic;
-using System.Threading;
-using YoutubeExtractor;
-using YoutubeExplode;
-using System.Net;
 using System.Linq;
 
 namespace codingsmth
